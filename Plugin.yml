@@ -1,0 +1,15 @@
+name: CodyCraft
+version: 1.1
+main: me.massonrage66.plugin.youtube
+author: Massonrage66
+description: A very sexy plugin!
+ 
+commands:
+     cody:
+         usage: /<command>
+         description: OY! YOU WANNA 1v1 ME MATE!
+     gitgud:
+         usage: /<command>
+         description: Skills 
+     monkey:
+         usage: /<command>
